@@ -6,14 +6,17 @@ public static class Methods
 {
     public static bool ContainsDuplicate<T>(T[] nums)
     {
-        List<T> copy = [];
+        //nums = [1,2,2,3,4,5,6]
+        var copy = new List<T>();
 
-        for (int i = 0; i < nums.Length; i++)
+        //copy = []
+
+        foreach (T item in nums)
         {
-            if (copy.Contains(nums[i]))
+            if (copy.Contains(item))
                 return true;
             else
-                copy.Add(nums[i]);
+                copy.Add(item);
         }
 
         return false;
