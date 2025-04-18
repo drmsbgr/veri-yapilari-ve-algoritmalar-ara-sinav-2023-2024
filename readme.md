@@ -2,13 +2,13 @@
 
 ## 1
 
-(a): hangi yöne
-(b): ADT(Abstract Data Type - Soyut Veri Türü)
-(c): sabit
-(d): O(1)
-(e): dinamik
-(f): baş (head)
-(g): O(n)
-(h): ek bir alan
-(i): LIFO (Last In, First Out - Son Giren İlk Çıkar)
-(j): peek
+(a): hangi yöne<br />
+(b): ADT(Abstract Data Type - Soyut Veri Türü)<br />
+(c): sabit<br />
+(d): O(1)<br />
+(e): dinamik<br />
+(f): baş (head)<br />
+(g): O(n)<br />
+(h): ek bir alan<br />
+(i): LIFO (Last In, First Out - Son Giren İlk Çıkar)<br />
+(j): peek<br />
